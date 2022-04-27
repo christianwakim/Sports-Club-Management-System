@@ -27,7 +27,7 @@ python3 manage.py runserver
 
 ## Admin Credentials
 
-After running, please open your browser and go to localhost:8000/admin. The username is 123 and password is 123.
+After running, please open your browser and go to localhost:8000/admin to access the database. The username is 123 and password is 123.
 
 ## Contribution
 - Christian Wakim
